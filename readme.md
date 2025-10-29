@@ -16,13 +16,14 @@ hey, steel is a rust-hosted scheme implementation. it's awesome! but it's also y
 
 ## functions provided
 
-- `andmap` - apply predicate to all items, return true if all pass
-- `ormap` - apply predicate to all items, return true if any pass  
-- `string-trim` - remove whitespace from string edges
-- `string-split` - split string by delimiter
-- `string-join` - join list of strings with separator
+**currently implemented:**
+- `andmap` - apply predicate to all items, return true if all pass ✅
 
-(more coming as needed!)
+**planned (coming soon!):**
+- `ormap` - apply predicate to all items, return true if any pass
+- additional string utilities as needed by grain network
+
+(note: string-trim, string-split, string-join already exist in teamtreasure02/grainorder/steel-strings.scm - we may move them here for community use!)
 
 ---
 
