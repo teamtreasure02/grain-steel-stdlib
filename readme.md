@@ -67,5 +67,17 @@ once these are battle-tested in grain network, we'll prepare prs for steel's cor
 
 ---
 
+## license
+
+dual-licensed under your choice of:
+- **mit license** - see [license-mit.md](license-mit.md)
+- **apache license 2.0** - see [license-apache.md](license-apache.md)
+
+you may use this software under either license, or under any other permissive open source license of your choosing, provided you include attribution to the original authors.
+
+**we believe in maximum freedom for users and developers!** 🌾
+
+---
+
 now == next + 1 🌾
 
